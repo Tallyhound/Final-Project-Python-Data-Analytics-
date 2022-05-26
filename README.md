@@ -53,3 +53,4 @@ I made a stacked bar graph of all the regions over seperate years.
 
 I made a stacked bar graph of all the regions over all the years.
 
+I am disappointed that I was not able to produce all the comparasions that I had envisioned when I started this project. I am not sure if it was poor choice of the data set or lack of skills being brand new, or a combination of the two. I was not sure of how to make comparasions with the data other than what was obvious from the beginning. Next time I would chose a different type of data, one that would enable more variations in comparasions and one without a date column. 
